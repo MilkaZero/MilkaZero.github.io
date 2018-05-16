@@ -1,6 +1,9 @@
 body{
     background: #f8f9fa;
 }
+.logo-font{
+    font-family: 'Playfair Display', serif
+}
 #showcase{
     position: relative;
     background-image: url("../img/painter.jpg") ;
